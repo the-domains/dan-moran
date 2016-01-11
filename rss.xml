@@ -2,14 +2,30 @@
     <channel>
         <title><![CDATA[Dan Moran]]></title>
         <description><![CDATA[Dan Moran]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dan-moran/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 02:46:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 02:48:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dan-moran/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>
+                                    I have been a mobile DJ for the past
+ 7 years, have performed and coordinated events from graduation and 
+birthday parties to fishing tournaments, BBQs, outdoor festivals, 
+corporate events, fundraisers and bars & clubs. Rest assured that 
+your DJ has performed and rocked crowds of all types, ages and venues 
+and is also fully licensed & insured. I specially prepare each event
+ to YOUR musical tastes to create the perfect atmosphere for your 
+special occasion so everyone leaves with a smile.
+</p>]]></description>
+            <link>https://thegrid.ai/dan-moran/d18829af-476f-455d-b18b-c5a231e95ca1/index.html</link>
+            <guid isPermaLink="false">d18829af-476f-455d-b18b-c5a231e95ca1</guid>
+            <pubDate>Mon, 11 Jan 2016 02:48:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/532fbd7c-ff6b-42e1-ae13-03f660081f7b.jpg">]]></description>
-            <link>undefineded27b0b9-e7e2-4a6d-81d1-e3cd3d3efbf6/index.html</link>
+            <link>https://thegrid.ai/dan-moran/ed27b0b9-e7e2-4a6d-81d1-e3cd3d3efbf6/index.html</link>
             <guid isPermaLink="false">ed27b0b9-e7e2-4a6d-81d1-e3cd3d3efbf6</guid>
             <pubDate>Mon, 11 Jan 2016 02:46:49 GMT</pubDate>
         </item>
